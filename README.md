@@ -1,4 +1,5 @@
 # SmartHostel
+[![CI](https://github.com/sajidkamaljoy/SmartHostel/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/SmartHostel/actions/workflows/ci.yml)
 
 A smart hostel management solution for hostel owners. A Windows Forms desktop app written in C# for the OOP2 course.
 
