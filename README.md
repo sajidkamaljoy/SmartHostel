@@ -1,6 +1,8 @@
 # SmartHostel
 [![CI](https://github.com/sajidkamaljoy/SmartHostel/actions/workflows/ci.yml/badge.svg)](https://github.com/sajidkamaljoy/SmartHostel/actions/workflows/ci.yml)
 
+> **Note:** this project was originally developed under my earlier GitHub account, [sajid43677/SmartHostel](https://github.com/sajid43677/SmartHostel), and was moved to this account in October 2026.
+
 A smart hostel management solution for hostel owners. A Windows Forms desktop app written in C# for the OOP2 course.
 
 ## Group members
